@@ -8133,12 +8133,12 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  font-family: "Poppins", Arial, sans-serif;
-  background: #000000;
+  font-family: "Poppins", Algerian, sans-serif;
+  background: blue;
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+  color:white; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8768,7 +8768,8 @@ h1, h2, h3, h4, h5,
     display: block;
     width: 100%;
     position: relative;
-    z-index: 1; }
+    z-index: 1;
+    border-radius: 60% }
 
 .ftco-about ul.about-info {
   display: inline-block;
